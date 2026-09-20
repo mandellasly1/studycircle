@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 @import "tailwindcss";
+=======
+@import 'tailwindcss';
+>>>>>>> d0bdbb524b0da001ad3b175e504b7b4d4c073e04
 
 :root {
   --background: #ffffff;

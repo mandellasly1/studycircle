@@ -1,12 +1,22 @@
 {
+<<<<<<< HEAD
   "name": "studycircle",
+=======
+  "name": "taskflow",
+>>>>>>> d0bdbb524b0da001ad3b175e504b7b4d4c073e04
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+<<<<<<< HEAD
     "lint": "eslint"
+=======
+    "lint": "eslint",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+>>>>>>> d0bdbb524b0da001ad3b175e504b7b4d4c073e04
   },
   "dependencies": {
     "next": "16.3.5",
@@ -20,6 +30,11 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.3.5",
+<<<<<<< HEAD
+=======
+    "eslint-config-prettier": "^10.1.8",
+    "prettier": "^3.9.7",
+>>>>>>> d0bdbb524b0da001ad3b175e504b7b4d4c073e04
     "tailwindcss": "^4",
     "typescript": "^5"
   }
